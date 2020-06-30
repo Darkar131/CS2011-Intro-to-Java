@@ -1,0 +1,14 @@
+What I have learn in IntToByte.java is to first know what the user might put and how large the number will be, 
+for example if the user puts anything larger than 127 its no longer a byte and you will get weird answers from the console.
+However, if you can extend that data type from 8bit-byte, 16bit-short, 32bit-int, 64bit-long and so then you will get a output.
+
+My process was first create a class (line 3), 
+second creat a method header (line 5), 
+third create a new Scanner along with a system propmt for the user (line 6, 7),
+fourth what ever input the user puts in for the console to be able to read it and process to get the integer value 
+then to not be confuse I put the system output to get the integer value (line 9, 10),
+fifth created a variable to store the value and cast it into byte for the same input
+then system output to get the byte value of the integer (line 12, 13),
+lastly close the method class.
+
+Overall, I though I was confuse at first and re-read more documentation to understand it and became a piece of cake 
