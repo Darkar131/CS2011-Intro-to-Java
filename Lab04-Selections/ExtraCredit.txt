@@ -1,0 +1,6 @@
+0 is divisible by everything!  and
+everything is divisble by 1
+
+ex) 0/1 but not 1/0 
+
+//In general 
