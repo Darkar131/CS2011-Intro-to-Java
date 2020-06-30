@@ -1,0 +1,5 @@
+3 loop essantials 
+
+1.) State -needs to be initialzed
+2.) loop condition (termination)
+3.) Upadte state (inisde loop)
